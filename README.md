@@ -1,5 +1,7 @@
 # Sign detection CNN project
 
+![Data analysis](https://github.com/GusevPortfolio/Road-sign-detection-ML/blob/main/Data/Sign%20list.png)
+
 Transfer learning -take a pre-trained VGG16 network and retrain it to recognize traffic signs.
 Kaggle dataset -GTSRB -German Traffic Sign Recognition Benchmark. (https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
 
