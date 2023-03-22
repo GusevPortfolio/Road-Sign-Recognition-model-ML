@@ -61,3 +61,5 @@ Epoch 50: Train Acc. = 98.0% / Test Acc. = 78.6%
   • 30 epochs vs 10 – fit. (+3,6% train acc., but +1,9% test acc.);
   
   • 50 epochs vs 30 – overfit. (+3,6% train acc., but +0,1% test acc.);
+  
+  
