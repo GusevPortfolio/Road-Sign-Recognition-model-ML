@@ -53,8 +53,6 @@ Epoch 50: Train Acc. = 98.0% / Test Acc. = 78.6%
   • 1 class takes from 5.7% to 0.5% (10+ times difference).
 
 
-/b
-/b
 
 ### More epochs & accuracy required more training data.
 
