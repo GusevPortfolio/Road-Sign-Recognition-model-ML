@@ -6,12 +6,16 @@ Transfer learning - take a pre-trained VGG16 network and retrain it to recognize
 
 Kaggle dataset - GTSRB / German Traffic Sign Recognition Benchmark. (https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
 
+<br/>
+
 ## Test dataset analysis:
 Total: 43 classes = 39209 png= 100%
 Majority: 17 classes = 28710 png= 73.2%
 Minority: 26 classes = 10499 png= 26.7%
  
 ![Data analysis](https://github.com/GusevPortfolio/Road-sign-detection-ML/blob/main/Data/Data%20analysis.jpg)
+
+<br/>
 
 ## Model results:
 
@@ -34,6 +38,10 @@ Epoch 50: Train Acc. = 98.0% / Test Acc. = 78.6%
 ![Epoch 10](https://github.com/GusevPortfolio/Road-sign-detection-ML/blob/main/Data/50%20-%20accuracy.jpg)
 
 
+<br/>
+<br/>
+
+
 ## Conclusions:
 
 ### Transfer learning saves time.
@@ -44,6 +52,7 @@ Epoch 50: Train Acc. = 98.0% / Test Acc. = 78.6%
   
   • 50 epochs - 116 min.
 
+<br/>
 
 
 ### Dataset is imbalanced.
@@ -52,6 +61,7 @@ Epoch 50: Train Acc. = 98.0% / Test Acc. = 78.6%
   
   • 1 class takes from 5.7% to 0.5% (10+ times difference).
 
+<br/>
 
 
 ### More epochs & accuracy required more training data.
