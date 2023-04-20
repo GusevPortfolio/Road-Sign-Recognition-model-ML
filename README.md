@@ -1,4 +1,4 @@
-# Sign detection based on VGG-16 (Machine Learning)
+# Sign detection based on VGG-16 (Machine Learning / CNN)
 
 ![Sign list](https://github.com/GusevPortfolio/Road-sign-detection-ML/blob/main/Data/Sign%20list1.png)
 
