@@ -22,7 +22,7 @@ Minority: 26 classes = 10499 png= 26.7%
 ## Model results:
 
 Epoch 10: Train Acc. = 90.8% / Test Acc. = 76.6%
-
+ 
 
 ![Epoch 10](https://github.com/GusevPortfolio/Road-sign-detection-ML/blob/main/Data/10%20-%20loss.jpg)
 ![Epoch 10](https://github.com/GusevPortfolio/Road-sign-detection-ML/blob/main/Data/10%20-%20accuracy.jpg)
